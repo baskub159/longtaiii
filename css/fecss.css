@@ -1,0 +1,82 @@
+#btn-f{
+    width: 100%;
+    height: 50%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    font-size: 10px;
+    font-family: un;
+    background: rgba(0,0,0,9);
+    border-radius: 5px;
+}
+.mmm{
+    width: 30%;
+    height: 100%;
+    margin: 0 auto
+}
+.mmm1{
+    width: 80%;
+    height: auto;
+    margin: 0 auto
+}
+#btn-f:hover{
+   background: rgba(0,0,0,0.7);
+    transition: .3s;
+    font-size: 10px;
+}
+.slick-slide{
+  img{
+    width: 100%;
+  }
+}
+.midf{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.midb{
+    width: 100%;
+    height: 70vh;
+    margin: 0 auto;
+}
+.midbs{
+    width: 80%;
+    height: 25%;
+    margin: 0 auto;
+}
+.midf1{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+.midfs{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.midfsh{
+    width: 100%;
+    height: 20vh;
+    margin: 0 auto;
+    margin-top: 1vh;
+}
+.mfm{
+    width:100%;
+    height: 55%;
+    margin: 0 auto;
+}
+@media screen and (min-width: 768px){
+    .mfm{
+    width:80%;
+   
+}
+ .mmm{
+    width: 50%;
+}
+}
+
+@media screen and (min-width: 1024px){
+    .mmm{
+    width: 50%;
+}
+}

@@ -1,0 +1,555 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #F8F8F8;
+    font-family: un;
+}
+
+.fs{
+    margin: 0 auto;
+    width: 98%;
+    height: 50%;
+    float: left;
+}
+.f11sub{
+    width: 80%;
+    height: 60%;
+    font-family: un;
+    margin: 0 auto;
+}
+.f11{
+    float: right;
+    width: 100%;
+    height: 50vh;
+}
+h3{
+    font-family: un;color: white;padding-left: 10%
+}
+h4{
+    font-family: un;color: white;
+}
+.f2{
+    float: left;
+    width: 25%;
+    height: 90%;
+    
+}
+.f1{
+    float: right;
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+.f{
+    width: 100%;
+    margin: 0 auto;   
+}
+.mid53{
+    width: 100%;
+    margin: 0 auto;
+}
+.mid52{
+    width: 100%;
+    margin: 0 auto
+}
+.mid5{
+    width: 80%;
+    margin: 0 auto;
+}
+.mids{
+   
+    width: 100%;
+    height: 100%;
+    font-family: un;
+   
+
+}
+
+#btn-t9{
+    width: 100%;
+    height: 100%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: right;
+    font-size: 10px;
+    font-family: un;
+    
+    background: rgba(0,0,0,0.9);
+}
+#btn-t9:hover{
+   background: grey;
+    transition: .3s;
+    font-size: 10px;
+}
+
+
+#btn-tt2{
+    width: 100%;
+    
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: left;
+    font-size: 20px;
+    font-family: un;
+    background: black;
+    margin-right: 10%;
+}
+#btn-tt2:hover{
+   background: rgba(0,0,0,0.6); 
+}
+.mid4t{
+    width: 100%;
+    margin: 0 auto;
+    float: right;
+}
+.mid4i{
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    float: right;
+}
+.mid4{
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+}
+.mid3{
+    height: 271px;
+    width: 100%;
+}
+.mid2{
+    height: 45vh;
+    width:80%;
+    margin: 0 auto;
+    
+}
+.mid2sub{
+    width: 35%;
+    height: 100%;
+    font-family: un;
+    float: left;
+}
+#btn-t2{
+    width: 100%;
+    height: 100%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: left;
+    font-size: 10px;
+    font-family: un;
+    background: #D95C14;
+    
+    margin-right: 10%;
+
+}
+#btn-t2:hover{
+   background: #98410F;
+    transition: .3s;
+    font-size: 10px;
+}
+#btn-t1{
+    width: 100%;
+    height: 100%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: left;
+    font-size: 10px;
+    font-family: un;
+    background: rgba(0,0,0,9);
+    
+    margin-right: 10%;
+
+}
+#btn-t1:hover{
+   background: rgba(0,0,0,0.7);
+    transition: .3s;
+    font-size: 10px;
+}
+#search{
+    width: 98%;
+    height: 95%;
+    border: none;
+    padding-left: 10px;  
+    float: left; 
+}
+
+.pp{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+}
+.sht{
+    width: 85%;
+    float: left;
+    height: 100%;
+    background-color: wheat
+}
+.shb{
+    width: 75%;
+    height: 25%;   
+    background: white;
+    margin: 0 auto;
+}
+.sh{
+    width: 70%;
+    height: 30%;
+    margin-top: 2%;
+    background: rgba(0.5,0,0,0.2);
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.ttex{
+    font-size: 47px;
+    font-family: un;
+    color: white;
+    text-align: center;
+   margin-top:20%;
+}
+#btn-t{
+    width: 60%;
+    height: 90%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: right;
+    font-size: 10px;
+    font-family: un;
+    background: rgba(0,0,0,9);
+    margin-top: 1%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+#btn-t:hover{
+   background: rgba(0,0,0,0.7);
+    transition: .3s;
+    font-size: 10px;
+}
+
+#btn-buy{
+    width: 100%;
+    height: 100%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: left;
+    font-size: 10px;
+    font-family: un;
+    background: rgba(0,0,0,0.0);
+}
+#btn-buy:hover{
+   background: rgba(0,0,0,0.3);
+    transition: .3s;
+    font-size: 10px;
+}
+#btn-buy1{
+    width: 100%;
+    height: 100%;
+    color: black;
+    border: none;   
+    cursor: pointer;
+    float: left;
+    font-size: 10px;
+    font-family: un;
+    background: rgba(0,0,0,0.0);
+}
+#btn-buy1:hover{
+   background: rgba(0,0,0,0.1);
+    transition: .3s;
+    font-size: 10px;
+}
+.topp9{
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    background: white; 
+    float: left;
+}
+.topp{
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.3); 
+}
+.topp1{
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.3); 
+}
+.top{
+    width: 100%;
+    height: 494px;
+    margin: 0 auto;   
+}
+.mid{
+    width: 100%;
+    height: 30vh;
+    margin: 0 auto;  
+}
+@font-face {
+font-family: "un";
+src: url("UID Deep sea 2021.ttf")format("truetype");
+}
+
+
+.top2{
+    width: 17%;
+    height: 100%;
+    margin: 0 auto;
+    float: left;
+}
+.logo{
+    width: 12.5%;
+    height: 100%;
+    float: left;
+    border-radius: 20px
+}
+.bg {
+  /* The image used */
+  
+
+  /* Full height */
+  height: 100%; 
+ width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.topp99{
+    width: 21%;
+    height: 100%;
+    margin: 0 auto;
+    background: white; 
+    float: left;
+}
+
+
+@media screen and (min-width: 768px) {
+    
+    .f11{  
+    width: 70%;
+}
+    .mid4{
+    width: 80%;
+    margin: 0 auto;
+}
+    .mid4i{
+    height: 350px;
+    width: 100%;   
+}
+    .mid4{
+    height: 350 px;
+    }
+    .mid3{
+    height: 330px;
+}
+
+    .mid{
+    width: 100%;    
+}
+    #btn-t2{
+    font-size: 15px;
+}
+#btn-t2:hover{
+   
+    font-size: 18px;
+}
+    .ttex{
+    font-size: 50px;
+}
+    .ttex{
+    font-size: 50px;
+   margin-top:12%;
+}
+    .top{   
+    height: 520px;    
+}
+    
+    .topp9{   
+    width: 65%;   
+}
+    .topp1{   
+    height: 44px;   
+}
+    #btn-buy{   
+    font-size: 15px;  
+}
+#btn-buy:hover{
+    font-size: 18px;
+}
+#btn-buy1{  
+    font-size: 15px;
+}
+#btn-buy1:hover{
+    font-size: 18px;
+}
+#btn-t9{
+    width: 100%;
+    height: 100%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: right;
+    font-size: 10px;
+    font-family: un;
+    
+    background: rgba(0,0,0,0.9);
+}
+#btn-t9:hover{
+   background: grey;
+    transition: .3s;
+    font-size: 10px;
+}
+.mid53{
+    width: 50%;
+    margin: 0 auto;
+}
+.mid52{
+    width: 100%;
+    margin: 0 auto
+}
+
+}
+
+@media screen and (min-width: 1024px) {
+    #btn-tt2{
+        height: 100%;
+    width: 100%;
+    color: white;
+    border: none;   
+    cursor: pointer;
+    float: left;
+    font-size: 20px;
+    font-family: un;
+    background: black;
+    margin-right: 10%;
+}
+      .mid4i{
+    height: 350px;
+    width: 60%;   
+}
+
+        #btn-t2{
+    font-size: 25px;
+}
+#btn-t2:hover{
+   
+    font-size: 28px;
+}
+    .ttex{
+    font-size: 55px;
+   
+}
+       .ttex{
+    font-size: 80px;
+   margin-top:8%;
+}
+    
+    #btn-t{
+    
+    float: right;
+    font-size: 25px;
+    margin-top: 0.5%;
+    margin-right: 1%;
+    border-radius: 10px;
+}
+.row{margin:0 auto;max-width:62.5rem;width:100%}
+#btn-t:hover{
+   
+    font-size: 28px;
+}
+    .topp9{   
+    width: 50%;   
+}
+    #btn-buy{ 
+    font-size: 25px;
+}
+#btn-buy:hover{
+    font-size: 28px;
+}
+
+.topp{
+    height: 100px;
+}
+#btn-buy1{
+    font-size: 25px;
+}
+#btn-buy1:hover{
+    font-size: 28px;
+}
+.topp1{
+
+    height: 60px;
+}
+.top{   
+    height: 900px;    
+}
+.mid4t{
+    width: 40%;
+    margin: 0 auto;
+    float: right;
+    height: 350px;
+}
+.mid51{
+    width: 49%;
+    
+}
+.mid52{
+    width: 50%;
+    margin: 0 auto
+}
+.mid53{
+    width: 50%;
+    margin: 0 auto;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
